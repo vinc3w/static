@@ -1,7 +1,7 @@
 {
-  "album_type": "single",
-  "total_tracks": 7,
-  "available_markets": [
+  "albumType": "single",
+  "totalTracks": 7,
+  "availableMarkets": [
     "AR",
     "AU",
     "AT",
@@ -188,7 +188,7 @@
     "ET",
     "XK"
   ],
-  "external_urls": {
+  "externalUrls": {
     "spotify": "https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z"
   },
   "href": "https://api.spotify.com/v1/albums/7pooeoqY4uJkTaW70qxm3z",
@@ -211,13 +211,13 @@
     }
   ],
   "name": "Typical of Me EP",
-  "release_date": "2021-04-30",
-  "release_date_precision": "day",
+  "releaseDate": "2021-04-30",
+  "releaseDatePrecision": "day",
   "type": "album",
   "uri": "spotify:album:7pooeoqY4uJkTaW70qxm3z",
   "artists": [
     {
-      "external_urls": {
+      "externalUrls": {
         "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
       },
       "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -238,7 +238,7 @@
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -248,7 +248,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -435,25 +435,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 224098,
+        "discNumber": 1,
+        "durationMs": 224098,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/42Ly3cfDuDaLZGvgOTwvLi"
         },
         "href": "https://api.spotify.com/v1/tracks/42Ly3cfDuDaLZGvgOTwvLi",
         "id": "42Ly3cfDuDaLZGvgOTwvLi",
         "name": "Street by Street",
-        "preview_url": null,
-        "track_number": 1,
+        "previewUrl": null,
+        "trackNumber": 1,
         "type": "track",
         "uri": "spotify:track:42Ly3cfDuDaLZGvgOTwvLi",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -463,7 +463,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -650,25 +650,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 180301,
+        "discNumber": 1,
+        "durationMs": 180301,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/0R5vO904RzxDJ30yZaspQD"
         },
         "href": "https://api.spotify.com/v1/tracks/0R5vO904RzxDJ30yZaspQD",
         "id": "0R5vO904RzxDJ30yZaspQD",
         "name": "Magnolia",
-        "preview_url": null,
-        "track_number": 2,
+        "previewUrl": null,
+        "trackNumber": 2,
         "type": "track",
         "uri": "spotify:track:0R5vO904RzxDJ30yZaspQD",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -678,7 +678,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -865,25 +865,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 162758,
+        "discNumber": 1,
+        "durationMs": 162758,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/1hUXDEqjNIIbfjTcaz3jzb"
         },
         "href": "https://api.spotify.com/v1/tracks/1hUXDEqjNIIbfjTcaz3jzb",
         "id": "1hUXDEqjNIIbfjTcaz3jzb",
         "name": "Like the Movies",
-        "preview_url": null,
-        "track_number": 3,
+        "previewUrl": null,
+        "trackNumber": 3,
         "type": "track",
         "uri": "spotify:track:1hUXDEqjNIIbfjTcaz3jzb",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -893,7 +893,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1080,25 +1080,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 155138,
+        "discNumber": 1,
+        "durationMs": 155138,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/5zHLswJplBXyPstFSSMIOH"
         },
         "href": "https://api.spotify.com/v1/tracks/5zHLswJplBXyPstFSSMIOH",
         "id": "5zHLswJplBXyPstFSSMIOH",
         "name": "I Wish You Love",
-        "preview_url": null,
-        "track_number": 4,
+        "previewUrl": null,
+        "trackNumber": 4,
         "type": "track",
         "uri": "spotify:track:5zHLswJplBXyPstFSSMIOH",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -1108,7 +1108,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1295,25 +1295,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 175970,
+        "discNumber": 1,
+        "durationMs": 175970,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/2y1NtQ2ZfIq0zBUP3tOlbX"
         },
         "href": "https://api.spotify.com/v1/tracks/2y1NtQ2ZfIq0zBUP3tOlbX",
         "id": "2y1NtQ2ZfIq0zBUP3tOlbX",
         "name": "James",
-        "preview_url": null,
-        "track_number": 5,
+        "previewUrl": null,
+        "trackNumber": 5,
         "type": "track",
         "uri": "spotify:track:2y1NtQ2ZfIq0zBUP3tOlbX",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -1323,7 +1323,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1510,25 +1510,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 198000,
+        "discNumber": 1,
+        "durationMs": 198000,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/3EZM5cS4hxty3MAcuBNj1H"
         },
         "href": "https://api.spotify.com/v1/tracks/3EZM5cS4hxty3MAcuBNj1H",
         "id": "3EZM5cS4hxty3MAcuBNj1H",
         "name": "Someone New",
-        "preview_url": null,
-        "track_number": 6,
+        "previewUrl": null,
+        "trackNumber": 6,
         "type": "track",
         "uri": "spotify:track:3EZM5cS4hxty3MAcuBNj1H",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -1538,7 +1538,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1725,20 +1725,20 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 164277,
+        "discNumber": 1,
+        "durationMs": 164277,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/5zQR0qoA4S1Iwj2bAwW03a"
         },
         "href": "https://api.spotify.com/v1/tracks/5zQR0qoA4S1Iwj2bAwW03a",
         "id": "5zQR0qoA4S1Iwj2bAwW03a",
         "name": "Best Friend",
-        "preview_url": null,
-        "track_number": 7,
+        "previewUrl": null,
+        "trackNumber": 7,
         "type": "track",
         "uri": "spotify:track:5zQR0qoA4S1Iwj2bAwW03a",
-        "is_local": false
+        "isLocal": false
       }
     ]
   },
@@ -1752,7 +1752,7 @@
       "type": "P"
     }
   ],
-  "external_ids": {
+  "externalIds": {
     "upc": "5056495307020"
   },
   "genres": [],

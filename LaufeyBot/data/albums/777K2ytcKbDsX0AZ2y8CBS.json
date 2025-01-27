@@ -1,7 +1,7 @@
 {
-  "album_type": "album",
-  "total_tracks": 16,
-  "available_markets": [
+  "albumType": "album",
+  "totalTracks": 16,
+  "availableMarkets": [
     "AR",
     "AU",
     "AT",
@@ -188,7 +188,7 @@
     "ET",
     "XK"
   ],
-  "external_urls": {
+  "externalUrls": {
     "spotify": "https://open.spotify.com/album/777K2ytcKbDsX0AZ2y8CBS"
   },
   "href": "https://api.spotify.com/v1/albums/777K2ytcKbDsX0AZ2y8CBS",
@@ -211,13 +211,13 @@
     }
   ],
   "name": "Everything I Know About Love",
-  "release_date": "2022-10-14",
-  "release_date_precision": "day",
+  "releaseDate": "2022-10-14",
+  "releaseDatePrecision": "day",
   "type": "album",
   "uri": "spotify:album:777K2ytcKbDsX0AZ2y8CBS",
   "artists": [
     {
-      "external_urls": {
+      "externalUrls": {
         "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
       },
       "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -238,7 +238,7 @@
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -248,7 +248,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -435,25 +435,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 241080,
+        "discNumber": 1,
+        "durationMs": 241080,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/0TveByn1xvhUjVrvjsWrTf"
         },
         "href": "https://api.spotify.com/v1/tracks/0TveByn1xvhUjVrvjsWrTf",
         "id": "0TveByn1xvhUjVrvjsWrTf",
         "name": "Fragile",
-        "preview_url": null,
-        "track_number": 1,
+        "previewUrl": null,
+        "trackNumber": 1,
         "type": "track",
         "uri": "spotify:track:0TveByn1xvhUjVrvjsWrTf",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -463,7 +463,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -650,25 +650,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 201266,
+        "discNumber": 1,
+        "durationMs": 201266,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/2EDxQGcJlVi32jBCXzUZhL"
         },
         "href": "https://api.spotify.com/v1/tracks/2EDxQGcJlVi32jBCXzUZhL",
         "id": "2EDxQGcJlVi32jBCXzUZhL",
         "name": "Beautiful Stranger",
-        "preview_url": null,
-        "track_number": 2,
+        "previewUrl": null,
+        "trackNumber": 2,
         "type": "track",
         "uri": "spotify:track:2EDxQGcJlVi32jBCXzUZhL",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -678,7 +678,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -865,25 +865,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 168906,
+        "discNumber": 1,
+        "durationMs": 168906,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/5cxeDbK7ZEefo866N1vE8m"
         },
         "href": "https://api.spotify.com/v1/tracks/5cxeDbK7ZEefo866N1vE8m",
         "id": "5cxeDbK7ZEefo866N1vE8m",
         "name": "Valentine",
-        "preview_url": null,
-        "track_number": 3,
+        "previewUrl": null,
+        "trackNumber": 3,
         "type": "track",
         "uri": "spotify:track:5cxeDbK7ZEefo866N1vE8m",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -893,7 +893,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1080,25 +1080,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 223173,
+        "discNumber": 1,
+        "durationMs": 223173,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/04cnoAgTzNnV1skGbWJeTM"
         },
         "href": "https://api.spotify.com/v1/tracks/04cnoAgTzNnV1skGbWJeTM",
         "id": "04cnoAgTzNnV1skGbWJeTM",
         "name": "Above The Chinese Restaurant",
-        "preview_url": null,
-        "track_number": 4,
+        "previewUrl": null,
+        "trackNumber": 4,
         "type": "track",
         "uri": "spotify:track:04cnoAgTzNnV1skGbWJeTM",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -1108,7 +1108,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1295,25 +1295,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 260026,
+        "discNumber": 1,
+        "durationMs": 260026,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/1yDvme1TNme1B9qWArp6c1"
         },
         "href": "https://api.spotify.com/v1/tracks/1yDvme1TNme1B9qWArp6c1",
         "id": "1yDvme1TNme1B9qWArp6c1",
         "name": "Dear Soulmate",
-        "preview_url": null,
-        "track_number": 5,
+        "previewUrl": null,
+        "trackNumber": 5,
         "type": "track",
         "uri": "spotify:track:1yDvme1TNme1B9qWArp6c1",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -1323,7 +1323,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1510,25 +1510,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 171253,
+        "discNumber": 1,
+        "durationMs": 171253,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/37nBLmvdfeqq8HrsMp2RmR"
         },
         "href": "https://api.spotify.com/v1/tracks/37nBLmvdfeqq8HrsMp2RmR",
         "id": "37nBLmvdfeqq8HrsMp2RmR",
         "name": "What Love Will Do to You",
-        "preview_url": null,
-        "track_number": 6,
+        "previewUrl": null,
+        "trackNumber": 6,
         "type": "track",
         "uri": "spotify:track:37nBLmvdfeqq8HrsMp2RmR",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -1538,7 +1538,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1725,25 +1725,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 222146,
+        "discNumber": 1,
+        "durationMs": 222146,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/4UDus24wWxzVM1uCbkRFNF"
         },
         "href": "https://api.spotify.com/v1/tracks/4UDus24wWxzVM1uCbkRFNF",
         "id": "4UDus24wWxzVM1uCbkRFNF",
         "name": "I've Never Been In Love Before",
-        "preview_url": null,
-        "track_number": 7,
+        "previewUrl": null,
+        "trackNumber": 7,
         "type": "track",
         "uri": "spotify:track:4UDus24wWxzVM1uCbkRFNF",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -1753,7 +1753,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1940,25 +1940,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 216453,
+        "discNumber": 1,
+        "durationMs": 216453,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/3s31XYGfswV1CR3UFCP2Sx"
         },
         "href": "https://api.spotify.com/v1/tracks/3s31XYGfswV1CR3UFCP2Sx",
         "id": "3s31XYGfswV1CR3UFCP2Sx",
         "name": "Just Like Chet",
-        "preview_url": null,
-        "track_number": 8,
+        "previewUrl": null,
+        "trackNumber": 8,
         "type": "track",
         "uri": "spotify:track:3s31XYGfswV1CR3UFCP2Sx",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -1968,7 +1968,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -2155,25 +2155,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 209706,
+        "discNumber": 1,
+        "durationMs": 209706,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/5Df8LivqhhpY5m8eT8st70"
         },
         "href": "https://api.spotify.com/v1/tracks/5Df8LivqhhpY5m8eT8st70",
         "id": "5Df8LivqhhpY5m8eT8st70",
         "name": "Everything I Know About Love",
-        "preview_url": null,
-        "track_number": 9,
+        "previewUrl": null,
+        "trackNumber": 9,
         "type": "track",
         "uri": "spotify:track:5Df8LivqhhpY5m8eT8st70",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -2183,7 +2183,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -2370,25 +2370,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 173640,
+        "discNumber": 1,
+        "durationMs": 173640,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/0mlIVjrhLn8WvmK1F9cgzY"
         },
         "href": "https://api.spotify.com/v1/tracks/0mlIVjrhLn8WvmK1F9cgzY",
         "id": "0mlIVjrhLn8WvmK1F9cgzY",
         "name": "Falling Behind",
-        "preview_url": null,
-        "track_number": 10,
+        "previewUrl": null,
+        "trackNumber": 10,
         "type": "track",
         "uri": "spotify:track:0mlIVjrhLn8WvmK1F9cgzY",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -2398,7 +2398,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -2585,25 +2585,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 193573,
+        "discNumber": 1,
+        "durationMs": 193573,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/6cBbx14y271qwBX2CQttwQ"
         },
         "href": "https://api.spotify.com/v1/tracks/6cBbx14y271qwBX2CQttwQ",
         "id": "6cBbx14y271qwBX2CQttwQ",
         "name": "Hi",
-        "preview_url": null,
-        "track_number": 11,
+        "previewUrl": null,
+        "trackNumber": 11,
         "type": "track",
         "uri": "spotify:track:6cBbx14y271qwBX2CQttwQ",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -2613,7 +2613,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -2800,25 +2800,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 158560,
+        "discNumber": 1,
+        "durationMs": 158560,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/6PAfPRBtkg2YR72cHtc7oK"
         },
         "href": "https://api.spotify.com/v1/tracks/6PAfPRBtkg2YR72cHtc7oK",
         "id": "6PAfPRBtkg2YR72cHtc7oK",
         "name": "Dance With You Tonight",
-        "preview_url": null,
-        "track_number": 12,
+        "previewUrl": null,
+        "trackNumber": 12,
         "type": "track",
         "uri": "spotify:track:6PAfPRBtkg2YR72cHtc7oK",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -2828,7 +2828,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -3015,25 +3015,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 242186,
+        "discNumber": 1,
+        "durationMs": 242186,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/6dJyKQaxxsxQA0rPF8JmNg"
         },
         "href": "https://api.spotify.com/v1/tracks/6dJyKQaxxsxQA0rPF8JmNg",
         "id": "6dJyKQaxxsxQA0rPF8JmNg",
         "name": "Night Light",
-        "preview_url": null,
-        "track_number": 13,
+        "previewUrl": null,
+        "trackNumber": 13,
         "type": "track",
         "uri": "spotify:track:6dJyKQaxxsxQA0rPF8JmNg",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -3043,7 +3043,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -3230,25 +3230,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 145093,
+        "discNumber": 1,
+        "durationMs": 145093,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/4KLZOU5V5XuEkvytSgyW6u"
         },
         "href": "https://api.spotify.com/v1/tracks/4KLZOU5V5XuEkvytSgyW6u",
         "id": "4KLZOU5V5XuEkvytSgyW6u",
         "name": "Slow Down",
-        "preview_url": null,
-        "track_number": 14,
+        "previewUrl": null,
+        "trackNumber": 14,
         "type": "track",
         "uri": "spotify:track:4KLZOU5V5XuEkvytSgyW6u",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -3258,7 +3258,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -3445,25 +3445,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 144093,
+        "discNumber": 1,
+        "durationMs": 144093,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/4pOTM8mcaosHV1SbcJg4xl"
         },
         "href": "https://api.spotify.com/v1/tracks/4pOTM8mcaosHV1SbcJg4xl",
         "id": "4pOTM8mcaosHV1SbcJg4xl",
         "name": "Lucky for Me",
-        "preview_url": null,
-        "track_number": 15,
+        "previewUrl": null,
+        "trackNumber": 15,
         "type": "track",
         "uri": "spotify:track:4pOTM8mcaosHV1SbcJg4xl",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -3473,7 +3473,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -3660,20 +3660,20 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 203693,
+        "discNumber": 1,
+        "durationMs": 203693,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/7kle3wveNJelYdI1khvHDb"
         },
         "href": "https://api.spotify.com/v1/tracks/7kle3wveNJelYdI1khvHDb",
         "id": "7kle3wveNJelYdI1khvHDb",
         "name": "Questions For The Universe",
-        "preview_url": null,
-        "track_number": 16,
+        "previewUrl": null,
+        "trackNumber": 16,
         "type": "track",
         "uri": "spotify:track:7kle3wveNJelYdI1khvHDb",
-        "is_local": false
+        "isLocal": false
       }
     ]
   },
@@ -3687,7 +3687,7 @@
       "type": "P"
     }
   ],
-  "external_ids": {
+  "externalIds": {
     "upc": "5056167176800"
   },
   "genres": [],

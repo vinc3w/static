@@ -1,7 +1,7 @@
 {
-  "album_type": "single",
-  "total_tracks": 2,
-  "available_markets": [
+  "albumType": "single",
+  "totalTracks": 2,
+  "availableMarkets": [
     "AR",
     "AU",
     "AT",
@@ -188,7 +188,7 @@
     "ET",
     "XK"
   ],
-  "external_urls": {
+  "externalUrls": {
     "spotify": "https://open.spotify.com/album/4gC9HHS8VYAlVUw1gqxUQB"
   },
   "href": "https://api.spotify.com/v1/albums/4gC9HHS8VYAlVUw1gqxUQB",
@@ -211,13 +211,13 @@
     }
   ],
   "name": "Bewitched (Rework)",
-  "release_date": "2024-06-07",
-  "release_date_precision": "day",
+  "releaseDate": "2024-06-07",
+  "releaseDatePrecision": "day",
   "type": "album",
   "uri": "spotify:album:4gC9HHS8VYAlVUw1gqxUQB",
   "artists": [
     {
-      "external_urls": {
+      "externalUrls": {
         "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
       },
       "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -227,7 +227,7 @@
       "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
     },
     {
-      "external_urls": {
+      "externalUrls": {
         "spotify": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
       },
       "href": "https://api.spotify.com/v1/artists/0iqgjl0OG3z53PZVIB7ZyD",
@@ -248,7 +248,7 @@
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -258,7 +258,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
             },
             "href": "https://api.spotify.com/v1/artists/0iqgjl0OG3z53PZVIB7ZyD",
@@ -268,7 +268,7 @@
             "uri": "spotify:artist:0iqgjl0OG3z53PZVIB7ZyD"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -455,25 +455,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 262876,
+        "discNumber": 1,
+        "durationMs": 262876,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/5pdc3oeoqidUv0pem5xenZ"
         },
         "href": "https://api.spotify.com/v1/tracks/5pdc3oeoqidUv0pem5xenZ",
         "id": "5pdc3oeoqidUv0pem5xenZ",
         "name": "Bewitched - Rework",
-        "preview_url": null,
-        "track_number": 1,
+        "previewUrl": null,
+        "trackNumber": 1,
         "type": "track",
         "uri": "spotify:track:5pdc3oeoqidUv0pem5xenZ",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -483,7 +483,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -670,20 +670,20 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 246693,
+        "discNumber": 1,
+        "durationMs": 246693,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/7LosK92bbUaBb6dTHLESRv"
         },
         "href": "https://api.spotify.com/v1/tracks/7LosK92bbUaBb6dTHLESRv",
         "id": "7LosK92bbUaBb6dTHLESRv",
         "name": "Bewitched",
-        "preview_url": null,
-        "track_number": 2,
+        "previewUrl": null,
+        "trackNumber": 2,
         "type": "track",
         "uri": "spotify:track:7LosK92bbUaBb6dTHLESRv",
-        "is_local": false
+        "isLocal": false
       }
     ]
   },
@@ -697,7 +697,7 @@
       "type": "P"
     }
   ],
-  "external_ids": {
+  "externalIds": {
     "upc": "198588197141"
   },
   "genres": [],

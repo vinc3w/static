@@ -1,7 +1,7 @@
 {
-  "album_type": "album",
-  "total_tracks": 14,
-  "available_markets": [
+  "albumType": "album",
+  "totalTracks": 14,
+  "availableMarkets": [
     "AR",
     "AU",
     "AT",
@@ -188,7 +188,7 @@
     "ET",
     "XK"
   ],
-  "external_urls": {
+  "externalUrls": {
     "spotify": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
   },
   "href": "https://api.spotify.com/v1/albums/1rpCHilZQkw84A3Y9czvMO",
@@ -211,13 +211,13 @@
     }
   ],
   "name": "Bewitched",
-  "release_date": "2023-09-08",
-  "release_date_precision": "day",
+  "releaseDate": "2023-09-08",
+  "releaseDatePrecision": "day",
   "type": "album",
   "uri": "spotify:album:1rpCHilZQkw84A3Y9czvMO",
   "artists": [
     {
-      "external_urls": {
+      "externalUrls": {
         "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
       },
       "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -238,7 +238,7 @@
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -248,7 +248,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -435,25 +435,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 210826,
+        "discNumber": 1,
+        "durationMs": 210826,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/1YxQxV5sKZN1TgVpXl5MLA"
         },
         "href": "https://api.spotify.com/v1/tracks/1YxQxV5sKZN1TgVpXl5MLA",
         "id": "1YxQxV5sKZN1TgVpXl5MLA",
         "name": "Dreamer",
-        "preview_url": null,
-        "track_number": 1,
+        "previewUrl": null,
+        "trackNumber": 1,
         "type": "track",
         "uri": "spotify:track:1YxQxV5sKZN1TgVpXl5MLA",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -463,7 +463,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -650,25 +650,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 204813,
+        "discNumber": 1,
+        "durationMs": 204813,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/4Y9Ge3i5r0vgFAZq653Yx3"
         },
         "href": "https://api.spotify.com/v1/tracks/4Y9Ge3i5r0vgFAZq653Yx3",
         "id": "4Y9Ge3i5r0vgFAZq653Yx3",
         "name": "Second Best",
-        "preview_url": null,
-        "track_number": 2,
+        "previewUrl": null,
+        "trackNumber": 2,
         "type": "track",
         "uri": "spotify:track:4Y9Ge3i5r0vgFAZq653Yx3",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -678,7 +678,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -865,25 +865,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 200626,
+        "discNumber": 1,
+        "durationMs": 200626,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/1bx9j48IeWnDnPqcTTqT8Q"
         },
         "href": "https://api.spotify.com/v1/tracks/1bx9j48IeWnDnPqcTTqT8Q",
         "id": "1bx9j48IeWnDnPqcTTqT8Q",
         "name": "Haunted",
-        "preview_url": null,
-        "track_number": 3,
+        "previewUrl": null,
+        "trackNumber": 3,
         "type": "track",
         "uri": "spotify:track:1bx9j48IeWnDnPqcTTqT8Q",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -893,7 +893,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1080,25 +1080,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 184960,
+        "discNumber": 1,
+        "durationMs": 184960,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/4kSC1tqpUxYdZTqtA0aztf"
         },
         "href": "https://api.spotify.com/v1/tracks/4kSC1tqpUxYdZTqtA0aztf",
         "id": "4kSC1tqpUxYdZTqtA0aztf",
         "name": "Must Be Love",
-        "preview_url": null,
-        "track_number": 4,
+        "previewUrl": null,
+        "trackNumber": 4,
         "type": "track",
         "uri": "spotify:track:4kSC1tqpUxYdZTqtA0aztf",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -1108,7 +1108,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1295,25 +1295,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 177493,
+        "discNumber": 1,
+        "durationMs": 177493,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/753iehfOnYSmjVfjx20znR"
         },
         "href": "https://api.spotify.com/v1/tracks/753iehfOnYSmjVfjx20znR",
         "id": "753iehfOnYSmjVfjx20znR",
         "name": "While You Were Sleeping",
-        "preview_url": null,
-        "track_number": 5,
+        "previewUrl": null,
+        "trackNumber": 5,
         "type": "track",
         "uri": "spotify:track:753iehfOnYSmjVfjx20znR",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -1323,7 +1323,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1510,25 +1510,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 225360,
+        "discNumber": 1,
+        "durationMs": 225360,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx"
         },
         "href": "https://api.spotify.com/v1/tracks/39fD0qvjgk8RarJnoBiDTx",
         "id": "39fD0qvjgk8RarJnoBiDTx",
         "name": "Lovesick",
-        "preview_url": null,
-        "track_number": 6,
+        "previewUrl": null,
+        "trackNumber": 6,
         "type": "track",
         "uri": "spotify:track:39fD0qvjgk8RarJnoBiDTx",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -1538,7 +1538,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
             },
             "href": "https://api.spotify.com/v1/artists/09KZU0NsS7jRa5p0SflmGY",
@@ -1548,7 +1548,7 @@
             "uri": "spotify:artist:09KZU0NsS7jRa5p0SflmGY"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1735,25 +1735,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 216306,
+        "discNumber": 1,
+        "durationMs": 216306,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe"
         },
         "href": "https://api.spotify.com/v1/tracks/5VP1yXviUwA0KA0ewit5pe",
         "id": "5VP1yXviUwA0KA0ewit5pe",
         "name": "California and Me",
-        "preview_url": null,
-        "track_number": 7,
+        "previewUrl": null,
+        "trackNumber": 7,
         "type": "track",
         "uri": "spotify:track:5VP1yXviUwA0KA0ewit5pe",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -1763,7 +1763,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1950,25 +1950,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 144066,
+        "discNumber": 1,
+        "durationMs": 144066,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/2dcPutROdT0VLw2ajhBwTc"
         },
         "href": "https://api.spotify.com/v1/tracks/2dcPutROdT0VLw2ajhBwTc",
         "id": "2dcPutROdT0VLw2ajhBwTc",
         "name": "Nocturne (Interlude)",
-        "preview_url": null,
-        "track_number": 8,
+        "previewUrl": null,
+        "trackNumber": 8,
         "type": "track",
         "uri": "spotify:track:2dcPutROdT0VLw2ajhBwTc",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -1978,7 +1978,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -2165,25 +2165,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 234266,
+        "discNumber": 1,
+        "durationMs": 234266,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
         },
         "href": "https://api.spotify.com/v1/tracks/08PdFBcXzpkn1cWNgmKqhn",
         "id": "08PdFBcXzpkn1cWNgmKqhn",
         "name": "Promise",
-        "preview_url": null,
-        "track_number": 9,
+        "previewUrl": null,
+        "trackNumber": 9,
         "type": "track",
         "uri": "spotify:track:08PdFBcXzpkn1cWNgmKqhn",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -2193,7 +2193,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -2380,25 +2380,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 169573,
+        "discNumber": 1,
+        "durationMs": 169573,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
         },
         "href": "https://api.spotify.com/v1/tracks/43iIQbw5hx986dUEZbr3eN",
         "id": "43iIQbw5hx986dUEZbr3eN",
         "name": "From The Start",
-        "preview_url": null,
-        "track_number": 10,
+        "previewUrl": null,
+        "trackNumber": 10,
         "type": "track",
         "uri": "spotify:track:43iIQbw5hx986dUEZbr3eN",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -2408,7 +2408,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -2595,25 +2595,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 209800,
+        "discNumber": 1,
+        "durationMs": 209800,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/5oEJyOsT68BDRwLoQQJl6W"
         },
         "href": "https://api.spotify.com/v1/tracks/5oEJyOsT68BDRwLoQQJl6W",
         "id": "5oEJyOsT68BDRwLoQQJl6W",
         "name": "Misty",
-        "preview_url": null,
-        "track_number": 11,
+        "previewUrl": null,
+        "trackNumber": 11,
         "type": "track",
         "uri": "spotify:track:5oEJyOsT68BDRwLoQQJl6W",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -2623,7 +2623,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -2810,25 +2810,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 219906,
+        "discNumber": 1,
+        "durationMs": 219906,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/5yIuA6g8P4nwWGMzXfhX4a"
         },
         "href": "https://api.spotify.com/v1/tracks/5yIuA6g8P4nwWGMzXfhX4a",
         "id": "5yIuA6g8P4nwWGMzXfhX4a",
         "name": "Serendipity",
-        "preview_url": null,
-        "track_number": 12,
+        "previewUrl": null,
+        "trackNumber": 12,
         "type": "track",
         "uri": "spotify:track:5yIuA6g8P4nwWGMzXfhX4a",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -2838,7 +2838,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -3025,25 +3025,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 262680,
+        "discNumber": 1,
+        "durationMs": 262680,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/59Y1f3y8FuLjadWY9Bx2LC"
         },
         "href": "https://api.spotify.com/v1/tracks/59Y1f3y8FuLjadWY9Bx2LC",
         "id": "59Y1f3y8FuLjadWY9Bx2LC",
         "name": "Letter To My 13 Year Old Self",
-        "preview_url": null,
-        "track_number": 13,
+        "previewUrl": null,
+        "trackNumber": 13,
         "type": "track",
         "uri": "spotify:track:59Y1f3y8FuLjadWY9Bx2LC",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -3053,7 +3053,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -3240,20 +3240,20 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 246693,
+        "discNumber": 1,
+        "durationMs": 246693,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42"
         },
         "href": "https://api.spotify.com/v1/tracks/0pfpeTGQOWlGp6YUUbBD42",
         "id": "0pfpeTGQOWlGp6YUUbBD42",
         "name": "Bewitched",
-        "preview_url": null,
-        "track_number": 14,
+        "previewUrl": null,
+        "trackNumber": 14,
         "type": "track",
         "uri": "spotify:track:0pfpeTGQOWlGp6YUUbBD42",
-        "is_local": false
+        "isLocal": false
       }
     ]
   },
@@ -3267,7 +3267,7 @@
       "type": "P"
     }
   ],
-  "external_ids": {
+  "externalIds": {
     "upc": "197189597817"
   },
   "genres": [],

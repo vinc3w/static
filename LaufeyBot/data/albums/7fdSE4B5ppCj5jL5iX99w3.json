@@ -1,7 +1,7 @@
 {
-  "album_type": "single",
-  "total_tracks": 1,
-  "available_markets": [
+  "albumType": "single",
+  "totalTracks": 1,
+  "availableMarkets": [
     "AR",
     "AU",
     "AT",
@@ -188,7 +188,7 @@
     "ET",
     "XK"
   ],
-  "external_urls": {
+  "externalUrls": {
     "spotify": "https://open.spotify.com/album/7fdSE4B5ppCj5jL5iX99w3"
   },
   "href": "https://api.spotify.com/v1/albums/7fdSE4B5ppCj5jL5iX99w3",
@@ -211,13 +211,13 @@
     }
   ],
   "name": "Valentine (Live at The Symphony)",
-  "release_date": "2023-02-14",
-  "release_date_precision": "day",
+  "releaseDate": "2023-02-14",
+  "releaseDatePrecision": "day",
   "type": "album",
   "uri": "spotify:album:7fdSE4B5ppCj5jL5iX99w3",
   "artists": [
     {
-      "external_urls": {
+      "externalUrls": {
         "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
       },
       "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -227,7 +227,7 @@
       "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
     },
     {
-      "external_urls": {
+      "externalUrls": {
         "spotify": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
       },
       "href": "https://api.spotify.com/v1/artists/3RPu1pwXXrPqamAp6OHZ8b",
@@ -248,7 +248,7 @@
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -258,7 +258,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
             },
             "href": "https://api.spotify.com/v1/artists/3RPu1pwXXrPqamAp6OHZ8b",
@@ -268,7 +268,7 @@
             "uri": "spotify:artist:3RPu1pwXXrPqamAp6OHZ8b"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -455,20 +455,20 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 180320,
+        "discNumber": 1,
+        "durationMs": 180320,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/3hxpEr7BsPJPLSVCDWVnbE"
         },
         "href": "https://api.spotify.com/v1/tracks/3hxpEr7BsPJPLSVCDWVnbE",
         "id": "3hxpEr7BsPJPLSVCDWVnbE",
         "name": "Valentine - Live at The Symphony",
-        "preview_url": null,
-        "track_number": 1,
+        "previewUrl": null,
+        "trackNumber": 1,
         "type": "track",
         "uri": "spotify:track:3hxpEr7BsPJPLSVCDWVnbE",
-        "is_local": false
+        "isLocal": false
       }
     ]
   },
@@ -482,7 +482,7 @@
       "type": "P"
     }
   ],
-  "external_ids": {
+  "externalIds": {
     "upc": "197188059330"
   },
   "genres": [],

@@ -1,7 +1,7 @@
 {
-  "album_type": "single",
-  "total_tracks": 1,
-  "available_markets": [
+  "albumType": "single",
+  "totalTracks": 1,
+  "availableMarkets": [
     "AR",
     "AU",
     "AT",
@@ -188,7 +188,7 @@
     "ET",
     "XK"
   ],
-  "external_urls": {
+  "externalUrls": {
     "spotify": "https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k"
   },
   "href": "https://api.spotify.com/v1/albums/47zvBT8HjRo9jkGESnCy8k",
@@ -211,13 +211,13 @@
     }
   ],
   "name": "Love Flew Away",
-  "release_date": "2021-10-07",
-  "release_date_precision": "day",
+  "releaseDate": "2021-10-07",
+  "releaseDatePrecision": "day",
   "type": "album",
   "uri": "spotify:album:47zvBT8HjRo9jkGESnCy8k",
   "artists": [
     {
-      "external_urls": {
+      "externalUrls": {
         "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
       },
       "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -227,7 +227,7 @@
       "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
     },
     {
-      "external_urls": {
+      "externalUrls": {
         "spotify": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
       },
       "href": "https://api.spotify.com/v1/artists/54tv11ndFfiqXiR03PwdlB",
@@ -248,7 +248,7 @@
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -258,7 +258,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
             },
             "href": "https://api.spotify.com/v1/artists/54tv11ndFfiqXiR03PwdlB",
@@ -268,7 +268,7 @@
             "uri": "spotify:artist:54tv11ndFfiqXiR03PwdlB"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -455,20 +455,20 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 147346,
+        "discNumber": 1,
+        "durationMs": 147346,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H"
         },
         "href": "https://api.spotify.com/v1/tracks/5Uro6tis4oexrT4Po1q71H",
         "id": "5Uro6tis4oexrT4Po1q71H",
         "name": "Love Flew Away",
-        "preview_url": null,
-        "track_number": 1,
+        "previewUrl": null,
+        "trackNumber": 1,
         "type": "track",
         "uri": "spotify:track:5Uro6tis4oexrT4Po1q71H",
-        "is_local": false
+        "isLocal": false
       }
     ]
   },
@@ -482,7 +482,7 @@
       "type": "P"
     }
   ],
-  "external_ids": {
+  "externalIds": {
     "upc": "0859750562463"
   },
   "genres": [],

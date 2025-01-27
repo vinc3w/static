@@ -1,7 +1,7 @@
 {
-  "album_type": "album",
-  "total_tracks": 14,
-  "available_markets": [
+  "albumType": "album",
+  "totalTracks": 14,
+  "availableMarkets": [
     "AR",
     "AU",
     "AT",
@@ -188,7 +188,7 @@
     "ET",
     "XK"
   ],
-  "external_urls": {
+  "externalUrls": {
     "spotify": "https://open.spotify.com/album/0ONGXnqkOl98GYJy619wqn"
   },
   "href": "https://api.spotify.com/v1/albums/0ONGXnqkOl98GYJy619wqn",
@@ -211,13 +211,13 @@
     }
   ],
   "name": "A Night At The Symphony",
-  "release_date": "2023-03-02",
-  "release_date_precision": "day",
+  "releaseDate": "2023-03-02",
+  "releaseDatePrecision": "day",
   "type": "album",
   "uri": "spotify:album:0ONGXnqkOl98GYJy619wqn",
   "artists": [
     {
-      "external_urls": {
+      "externalUrls": {
         "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
       },
       "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -227,7 +227,7 @@
       "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
     },
     {
-      "external_urls": {
+      "externalUrls": {
         "spotify": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
       },
       "href": "https://api.spotify.com/v1/artists/3RPu1pwXXrPqamAp6OHZ8b",
@@ -248,7 +248,7 @@
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -258,7 +258,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
             },
             "href": "https://api.spotify.com/v1/artists/3RPu1pwXXrPqamAp6OHZ8b",
@@ -268,7 +268,7 @@
             "uri": "spotify:artist:3RPu1pwXXrPqamAp6OHZ8b"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -455,25 +455,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 249000,
+        "discNumber": 1,
+        "durationMs": 249000,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/2l2qbgyVMF2tEwLlOsPwa1"
         },
         "href": "https://api.spotify.com/v1/tracks/2l2qbgyVMF2tEwLlOsPwa1",
         "id": "2l2qbgyVMF2tEwLlOsPwa1",
         "name": "Fragile - Live at The Symphony",
-        "preview_url": null,
-        "track_number": 1,
+        "previewUrl": null,
+        "trackNumber": 1,
         "type": "track",
         "uri": "spotify:track:2l2qbgyVMF2tEwLlOsPwa1",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -483,7 +483,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
             },
             "href": "https://api.spotify.com/v1/artists/3RPu1pwXXrPqamAp6OHZ8b",
@@ -493,7 +493,7 @@
             "uri": "spotify:artist:3RPu1pwXXrPqamAp6OHZ8b"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -680,25 +680,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 180320,
+        "discNumber": 1,
+        "durationMs": 180320,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/2f0Q46mx44CJyZfab01J12"
         },
         "href": "https://api.spotify.com/v1/tracks/2f0Q46mx44CJyZfab01J12",
         "id": "2f0Q46mx44CJyZfab01J12",
         "name": "Valentine - Live at The Symphony",
-        "preview_url": null,
-        "track_number": 2,
+        "previewUrl": null,
+        "trackNumber": 2,
         "type": "track",
         "uri": "spotify:track:2f0Q46mx44CJyZfab01J12",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -708,7 +708,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
             },
             "href": "https://api.spotify.com/v1/artists/3RPu1pwXXrPqamAp6OHZ8b",
@@ -718,7 +718,7 @@
             "uri": "spotify:artist:3RPu1pwXXrPqamAp6OHZ8b"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -905,25 +905,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 292000,
+        "discNumber": 1,
+        "durationMs": 292000,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/47OE7SWp17bIHAlzznLEdq"
         },
         "href": "https://api.spotify.com/v1/tracks/47OE7SWp17bIHAlzznLEdq",
         "id": "47OE7SWp17bIHAlzznLEdq",
         "name": "Dear Soulmate - Live at The Symphony",
-        "preview_url": null,
-        "track_number": 3,
+        "previewUrl": null,
+        "trackNumber": 3,
         "type": "track",
         "uri": "spotify:track:47OE7SWp17bIHAlzznLEdq",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -933,7 +933,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
             },
             "href": "https://api.spotify.com/v1/artists/3RPu1pwXXrPqamAp6OHZ8b",
@@ -943,7 +943,7 @@
             "uri": "spotify:artist:3RPu1pwXXrPqamAp6OHZ8b"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1130,25 +1130,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 169133,
+        "discNumber": 1,
+        "durationMs": 169133,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/3N0rdHyd2uyavMTaoTBOSZ"
         },
         "href": "https://api.spotify.com/v1/tracks/3N0rdHyd2uyavMTaoTBOSZ",
         "id": "3N0rdHyd2uyavMTaoTBOSZ",
         "name": "I Wish You Love - Live at The Symphony",
-        "preview_url": null,
-        "track_number": 4,
+        "previewUrl": null,
+        "trackNumber": 4,
         "type": "track",
         "uri": "spotify:track:3N0rdHyd2uyavMTaoTBOSZ",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -1158,7 +1158,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
             },
             "href": "https://api.spotify.com/v1/artists/3RPu1pwXXrPqamAp6OHZ8b",
@@ -1168,7 +1168,7 @@
             "uri": "spotify:artist:3RPu1pwXXrPqamAp6OHZ8b"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1355,25 +1355,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 247133,
+        "discNumber": 1,
+        "durationMs": 247133,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/0rDGJgeeJETqavhY1lhRM9"
         },
         "href": "https://api.spotify.com/v1/tracks/0rDGJgeeJETqavhY1lhRM9",
         "id": "0rDGJgeeJETqavhY1lhRM9",
         "name": "Night Light - Live at The Symphony",
-        "preview_url": null,
-        "track_number": 5,
+        "previewUrl": null,
+        "trackNumber": 5,
         "type": "track",
         "uri": "spotify:track:0rDGJgeeJETqavhY1lhRM9",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -1383,7 +1383,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
             },
             "href": "https://api.spotify.com/v1/artists/3RPu1pwXXrPqamAp6OHZ8b",
@@ -1393,7 +1393,7 @@
             "uri": "spotify:artist:3RPu1pwXXrPqamAp6OHZ8b"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1580,25 +1580,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 216733,
+        "discNumber": 1,
+        "durationMs": 216733,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/3X87xXj9SO8crggRjenwYZ"
         },
         "href": "https://api.spotify.com/v1/tracks/3X87xXj9SO8crggRjenwYZ",
         "id": "3X87xXj9SO8crggRjenwYZ",
         "name": "Ég Veit Þú Kemur - Live at The Symphony",
-        "preview_url": null,
-        "track_number": 6,
+        "previewUrl": null,
+        "trackNumber": 6,
         "type": "track",
         "uri": "spotify:track:3X87xXj9SO8crggRjenwYZ",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -1608,7 +1608,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
             },
             "href": "https://api.spotify.com/v1/artists/3RPu1pwXXrPqamAp6OHZ8b",
@@ -1618,7 +1618,7 @@
             "uri": "spotify:artist:3RPu1pwXXrPqamAp6OHZ8b"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1805,25 +1805,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 175133,
+        "discNumber": 1,
+        "durationMs": 175133,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/6zRZcXQacOxgBiiKe6na2H"
         },
         "href": "https://api.spotify.com/v1/tracks/6zRZcXQacOxgBiiKe6na2H",
         "id": "6zRZcXQacOxgBiiKe6na2H",
         "name": "Falling Behind - Live at The Symphony",
-        "preview_url": null,
-        "track_number": 7,
+        "previewUrl": null,
+        "trackNumber": 7,
         "type": "track",
         "uri": "spotify:track:6zRZcXQacOxgBiiKe6na2H",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -1833,7 +1833,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
             },
             "href": "https://api.spotify.com/v1/artists/3RPu1pwXXrPqamAp6OHZ8b",
@@ -1843,7 +1843,7 @@
             "uri": "spotify:artist:3RPu1pwXXrPqamAp6OHZ8b"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -2030,25 +2030,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 179866,
+        "discNumber": 1,
+        "durationMs": 179866,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/1l1z45twP4mVGQL9UNILoq"
         },
         "href": "https://api.spotify.com/v1/tracks/1l1z45twP4mVGQL9UNILoq",
         "id": "1l1z45twP4mVGQL9UNILoq",
         "name": "Best Friend - Live at The Symphony",
-        "preview_url": null,
-        "track_number": 8,
+        "previewUrl": null,
+        "trackNumber": 8,
         "type": "track",
         "uri": "spotify:track:1l1z45twP4mVGQL9UNILoq",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -2058,7 +2058,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
             },
             "href": "https://api.spotify.com/v1/artists/3RPu1pwXXrPqamAp6OHZ8b",
@@ -2068,7 +2068,7 @@
             "uri": "spotify:artist:3RPu1pwXXrPqamAp6OHZ8b"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -2255,25 +2255,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 212000,
+        "discNumber": 1,
+        "durationMs": 212000,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/3vcPpaLeTqELKCocWv5vb3"
         },
         "href": "https://api.spotify.com/v1/tracks/3vcPpaLeTqELKCocWv5vb3",
         "id": "3vcPpaLeTqELKCocWv5vb3",
         "name": "Like the Movies - Live at The Symphony",
-        "preview_url": null,
-        "track_number": 9,
+        "previewUrl": null,
+        "trackNumber": 9,
         "type": "track",
         "uri": "spotify:track:3vcPpaLeTqELKCocWv5vb3",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -2283,7 +2283,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
             },
             "href": "https://api.spotify.com/v1/artists/3RPu1pwXXrPqamAp6OHZ8b",
@@ -2293,7 +2293,7 @@
             "uri": "spotify:artist:3RPu1pwXXrPqamAp6OHZ8b"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -2480,25 +2480,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 168400,
+        "discNumber": 1,
+        "durationMs": 168400,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/4vjFL3VnYcaJqX1HmQEBRa"
         },
         "href": "https://api.spotify.com/v1/tracks/4vjFL3VnYcaJqX1HmQEBRa",
         "id": "4vjFL3VnYcaJqX1HmQEBRa",
         "name": "The Nearness of You - Live at The Symphony",
-        "preview_url": null,
-        "track_number": 10,
+        "previewUrl": null,
+        "trackNumber": 10,
         "type": "track",
         "uri": "spotify:track:4vjFL3VnYcaJqX1HmQEBRa",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -2508,7 +2508,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
             },
             "href": "https://api.spotify.com/v1/artists/3RPu1pwXXrPqamAp6OHZ8b",
@@ -2518,7 +2518,7 @@
             "uri": "spotify:artist:3RPu1pwXXrPqamAp6OHZ8b"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -2705,25 +2705,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 302000,
+        "discNumber": 1,
+        "durationMs": 302000,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/2wFGq8rFKLPX0dkAwUwY8s"
         },
         "href": "https://api.spotify.com/v1/tracks/2wFGq8rFKLPX0dkAwUwY8s",
         "id": "2wFGq8rFKLPX0dkAwUwY8s",
         "name": "Let You Break My Heart Again - Live at The Symphony",
-        "preview_url": null,
-        "track_number": 11,
+        "previewUrl": null,
+        "trackNumber": 11,
         "type": "track",
         "uri": "spotify:track:2wFGq8rFKLPX0dkAwUwY8s",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -2733,7 +2733,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
             },
             "href": "https://api.spotify.com/v1/artists/3RPu1pwXXrPqamAp6OHZ8b",
@@ -2743,7 +2743,7 @@
             "uri": "spotify:artist:3RPu1pwXXrPqamAp6OHZ8b"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -2930,25 +2930,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 180000,
+        "discNumber": 1,
+        "durationMs": 180000,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/1207xP3DSoGjDRr7Nc0ohN"
         },
         "href": "https://api.spotify.com/v1/tracks/1207xP3DSoGjDRr7Nc0ohN",
         "id": "1207xP3DSoGjDRr7Nc0ohN",
         "name": "What Love Will Do to You - Live at The Symphony",
-        "preview_url": null,
-        "track_number": 12,
+        "previewUrl": null,
+        "trackNumber": 12,
         "type": "track",
         "uri": "spotify:track:1207xP3DSoGjDRr7Nc0ohN",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -2958,7 +2958,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
             },
             "href": "https://api.spotify.com/v1/artists/3RPu1pwXXrPqamAp6OHZ8b",
@@ -2968,7 +2968,7 @@
             "uri": "spotify:artist:3RPu1pwXXrPqamAp6OHZ8b"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -3155,25 +3155,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 211733,
+        "discNumber": 1,
+        "durationMs": 211733,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/0EkUrEcg4DiQjVTuS2pDrh"
         },
         "href": "https://api.spotify.com/v1/tracks/0EkUrEcg4DiQjVTuS2pDrh",
         "id": "0EkUrEcg4DiQjVTuS2pDrh",
         "name": "Beautiful Stranger - Live at The Symphony",
-        "preview_url": null,
-        "track_number": 13,
+        "previewUrl": null,
+        "trackNumber": 13,
         "type": "track",
         "uri": "spotify:track:0EkUrEcg4DiQjVTuS2pDrh",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -3183,7 +3183,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
             },
             "href": "https://api.spotify.com/v1/artists/3RPu1pwXXrPqamAp6OHZ8b",
@@ -3193,7 +3193,7 @@
             "uri": "spotify:artist:3RPu1pwXXrPqamAp6OHZ8b"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -3380,20 +3380,20 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 273546,
+        "discNumber": 1,
+        "durationMs": 273546,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/5cddyAdFOA3JsC3MhYmc2Y"
         },
         "href": "https://api.spotify.com/v1/tracks/5cddyAdFOA3JsC3MhYmc2Y",
         "id": "5cddyAdFOA3JsC3MhYmc2Y",
         "name": "Everytime We Say Goodbye - Live at The Symphony",
-        "preview_url": null,
-        "track_number": 14,
+        "previewUrl": null,
+        "trackNumber": 14,
         "type": "track",
         "uri": "spotify:track:5cddyAdFOA3JsC3MhYmc2Y",
-        "is_local": false
+        "isLocal": false
       }
     ]
   },
@@ -3407,7 +3407,7 @@
       "type": "P"
     }
   ],
-  "external_ids": {
+  "externalIds": {
     "upc": "197188069841"
   },
   "genres": [],

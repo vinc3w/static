@@ -1,7 +1,7 @@
 {
-  "album_type": "single",
-  "total_tracks": 1,
-  "available_markets": [
+  "albumType": "single",
+  "totalTracks": 1,
+  "availableMarkets": [
     "AR",
     "AU",
     "AT",
@@ -187,7 +187,7 @@
     "ET",
     "XK"
   ],
-  "external_urls": {
+  "externalUrls": {
     "spotify": "https://open.spotify.com/album/5hwnA1YViHJyN25zKSnctm"
   },
   "href": "https://api.spotify.com/v1/albums/5hwnA1YViHJyN25zKSnctm",
@@ -210,13 +210,13 @@
     }
   ],
   "name": "Goddess",
-  "release_date": "2024-03-06",
-  "release_date_precision": "day",
+  "releaseDate": "2024-03-06",
+  "releaseDatePrecision": "day",
   "type": "album",
   "uri": "spotify:album:5hwnA1YViHJyN25zKSnctm",
   "artists": [
     {
-      "external_urls": {
+      "externalUrls": {
         "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
       },
       "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -237,7 +237,7 @@
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -247,7 +247,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -433,20 +433,20 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 267866,
+        "discNumber": 1,
+        "durationMs": 267866,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/37kcXqEMXXUCFZS8oUMppz"
         },
         "href": "https://api.spotify.com/v1/tracks/37kcXqEMXXUCFZS8oUMppz",
         "id": "37kcXqEMXXUCFZS8oUMppz",
         "name": "Goddess",
-        "preview_url": null,
-        "track_number": 1,
+        "previewUrl": null,
+        "trackNumber": 1,
         "type": "track",
         "uri": "spotify:track:37kcXqEMXXUCFZS8oUMppz",
-        "is_local": false
+        "isLocal": false
       }
     ]
   },
@@ -460,7 +460,7 @@
       "type": "P"
     }
   ],
-  "external_ids": {
+  "externalIds": {
     "upc": "198391491863"
   },
   "genres": [],

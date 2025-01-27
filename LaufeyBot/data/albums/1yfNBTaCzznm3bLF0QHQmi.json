@@ -1,7 +1,7 @@
 {
-  "album_type": "single",
-  "total_tracks": 1,
-  "available_markets": [
+  "albumType": "single",
+  "totalTracks": 1,
+  "availableMarkets": [
     "AR",
     "AU",
     "AT",
@@ -188,7 +188,7 @@
     "ET",
     "XK"
   ],
-  "external_urls": {
+  "externalUrls": {
     "spotify": "https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi"
   },
   "href": "https://api.spotify.com/v1/albums/1yfNBTaCzznm3bLF0QHQmi",
@@ -211,13 +211,13 @@
     }
   ],
   "name": "Love to Keep Me Warm",
-  "release_date": "2021-12-03",
-  "release_date_precision": "day",
+  "releaseDate": "2021-12-03",
+  "releaseDatePrecision": "day",
   "type": "album",
   "uri": "spotify:album:1yfNBTaCzznm3bLF0QHQmi",
   "artists": [
     {
-      "external_urls": {
+      "externalUrls": {
         "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
       },
       "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -227,7 +227,7 @@
       "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
     },
     {
-      "external_urls": {
+      "externalUrls": {
         "spotify": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
       },
       "href": "https://api.spotify.com/v1/artists/21TinSsF5ytwsfdyz5VSVS",
@@ -248,7 +248,7 @@
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -258,7 +258,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
             },
             "href": "https://api.spotify.com/v1/artists/21TinSsF5ytwsfdyz5VSVS",
@@ -268,7 +268,7 @@
             "uri": "spotify:artist:21TinSsF5ytwsfdyz5VSVS"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -455,20 +455,20 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 158133,
+        "discNumber": 1,
+        "durationMs": 158133,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
         },
         "href": "https://api.spotify.com/v1/tracks/3bq7dXN7arTdaq8mmKXxob",
         "id": "3bq7dXN7arTdaq8mmKXxob",
         "name": "Love to Keep Me Warm",
-        "preview_url": null,
-        "track_number": 1,
+        "previewUrl": null,
+        "trackNumber": 1,
         "type": "track",
         "uri": "spotify:track:3bq7dXN7arTdaq8mmKXxob",
-        "is_local": false
+        "isLocal": false
       }
     ]
   },
@@ -482,7 +482,7 @@
       "type": "P"
     }
   ],
-  "external_ids": {
+  "externalIds": {
     "upc": "5056495441076"
   },
   "genres": [],

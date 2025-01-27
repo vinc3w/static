@@ -1,7 +1,7 @@
 {
-  "album_type": "single",
-  "total_tracks": 1,
-  "available_markets": [
+  "albumType": "single",
+  "totalTracks": 1,
+  "availableMarkets": [
     "AR",
     "AU",
     "AT",
@@ -188,7 +188,7 @@
     "ET",
     "XK"
   ],
-  "external_urls": {
+  "externalUrls": {
     "spotify": "https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh"
   },
   "href": "https://api.spotify.com/v1/albums/1Ph9nV8cNv7Gq7yHOlmbgh",
@@ -211,13 +211,13 @@
     }
   ],
   "name": "Spotify Singles Holiday",
-  "release_date": "2023-11-14",
-  "release_date_precision": "day",
+  "releaseDate": "2023-11-14",
+  "releaseDatePrecision": "day",
   "type": "album",
   "uri": "spotify:album:1Ph9nV8cNv7Gq7yHOlmbgh",
   "artists": [
     {
-      "external_urls": {
+      "externalUrls": {
         "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
       },
       "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -238,7 +238,7 @@
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -248,7 +248,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -435,20 +435,20 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 132800,
+        "discNumber": 1,
+        "durationMs": 132800,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
         },
         "href": "https://api.spotify.com/v1/tracks/1LmkdWSxjCV7wKTPsCvYWN",
         "id": "1LmkdWSxjCV7wKTPsCvYWN",
         "name": "Winter Wonderland - Spotify Singles Holiday",
-        "preview_url": null,
-        "track_number": 1,
+        "previewUrl": null,
+        "trackNumber": 1,
         "type": "track",
         "uri": "spotify:track:1LmkdWSxjCV7wKTPsCvYWN",
-        "is_local": false
+        "isLocal": false
       }
     ]
   },
@@ -462,7 +462,7 @@
       "type": "P"
     }
   ],
-  "external_ids": {
+  "externalIds": {
     "upc": "197190134575"
   },
   "genres": [],

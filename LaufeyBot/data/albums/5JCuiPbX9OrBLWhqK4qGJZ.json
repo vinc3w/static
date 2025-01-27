@@ -1,7 +1,7 @@
 {
-  "album_type": "album",
-  "total_tracks": 15,
-  "available_markets": [
+  "albumType": "album",
+  "totalTracks": 15,
+  "availableMarkets": [
     "AR",
     "AU",
     "AT",
@@ -188,7 +188,7 @@
     "ET",
     "XK"
   ],
-  "external_urls": {
+  "externalUrls": {
     "spotify": "https://open.spotify.com/album/5JCuiPbX9OrBLWhqK4qGJZ"
   },
   "href": "https://api.spotify.com/v1/albums/5JCuiPbX9OrBLWhqK4qGJZ",
@@ -211,13 +211,13 @@
     }
   ],
   "name": "A Night At The Symphony: Live at the Hollywood Bowl",
-  "release_date": "2024-12-06",
-  "release_date_precision": "day",
+  "releaseDate": "2024-12-06",
+  "releaseDatePrecision": "day",
   "type": "album",
   "uri": "spotify:album:5JCuiPbX9OrBLWhqK4qGJZ",
   "artists": [
     {
-      "external_urls": {
+      "externalUrls": {
         "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
       },
       "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -227,7 +227,7 @@
       "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
     },
     {
-      "external_urls": {
+      "externalUrls": {
         "spotify": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
       },
       "href": "https://api.spotify.com/v1/artists/6yeL5iw4hXNZtd8T7FOoFU",
@@ -248,7 +248,7 @@
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -258,7 +258,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
             },
             "href": "https://api.spotify.com/v1/artists/6yeL5iw4hXNZtd8T7FOoFU",
@@ -268,7 +268,7 @@
             "uri": "spotify:artist:6yeL5iw4hXNZtd8T7FOoFU"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -455,25 +455,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 215666,
+        "discNumber": 1,
+        "durationMs": 215666,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/1nyq415CD3956bDtNVgmRt"
         },
         "href": "https://api.spotify.com/v1/tracks/1nyq415CD3956bDtNVgmRt",
         "id": "1nyq415CD3956bDtNVgmRt",
         "name": "Dreamer - Live at the Hollywood Bowl",
-        "preview_url": null,
-        "track_number": 1,
+        "previewUrl": null,
+        "trackNumber": 1,
         "type": "track",
         "uri": "spotify:track:1nyq415CD3956bDtNVgmRt",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -483,7 +483,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
             },
             "href": "https://api.spotify.com/v1/artists/6yeL5iw4hXNZtd8T7FOoFU",
@@ -493,7 +493,7 @@
             "uri": "spotify:artist:6yeL5iw4hXNZtd8T7FOoFU"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -680,25 +680,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 175826,
+        "discNumber": 1,
+        "durationMs": 175826,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/4zfg8VP7X4sqgniFdCRHRj"
         },
         "href": "https://api.spotify.com/v1/tracks/4zfg8VP7X4sqgniFdCRHRj",
         "id": "4zfg8VP7X4sqgniFdCRHRj",
         "name": "While You Were Sleeping - Live at the Hollywood Bowl",
-        "preview_url": null,
-        "track_number": 2,
+        "previewUrl": null,
+        "trackNumber": 2,
         "type": "track",
         "uri": "spotify:track:4zfg8VP7X4sqgniFdCRHRj",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -708,7 +708,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
             },
             "href": "https://api.spotify.com/v1/artists/6yeL5iw4hXNZtd8T7FOoFU",
@@ -718,7 +718,7 @@
             "uri": "spotify:artist:6yeL5iw4hXNZtd8T7FOoFU"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -905,25 +905,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 171173,
+        "discNumber": 1,
+        "durationMs": 171173,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/6vv1SUiuHyNJjiCWlo7WBg"
         },
         "href": "https://api.spotify.com/v1/tracks/6vv1SUiuHyNJjiCWlo7WBg",
         "id": "6vv1SUiuHyNJjiCWlo7WBg",
         "name": "Falling Behind - Live at the Hollywood Bowl",
-        "preview_url": null,
-        "track_number": 3,
+        "previewUrl": null,
+        "trackNumber": 3,
         "type": "track",
         "uri": "spotify:track:6vv1SUiuHyNJjiCWlo7WBg",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -933,7 +933,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
             },
             "href": "https://api.spotify.com/v1/artists/6yeL5iw4hXNZtd8T7FOoFU",
@@ -943,7 +943,7 @@
             "uri": "spotify:artist:6yeL5iw4hXNZtd8T7FOoFU"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1130,25 +1130,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 243160,
+        "discNumber": 1,
+        "durationMs": 243160,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/5O74RgOYXPmoH9OaawmcgJ"
         },
         "href": "https://api.spotify.com/v1/tracks/5O74RgOYXPmoH9OaawmcgJ",
         "id": "5O74RgOYXPmoH9OaawmcgJ",
         "name": "Fragile - Live at the Hollywood Bowl",
-        "preview_url": null,
-        "track_number": 4,
+        "previewUrl": null,
+        "trackNumber": 4,
         "type": "track",
         "uri": "spotify:track:5O74RgOYXPmoH9OaawmcgJ",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -1158,7 +1158,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
             },
             "href": "https://api.spotify.com/v1/artists/6yeL5iw4hXNZtd8T7FOoFU",
@@ -1168,7 +1168,7 @@
             "uri": "spotify:artist:6yeL5iw4hXNZtd8T7FOoFU"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1355,25 +1355,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 304013,
+        "discNumber": 1,
+        "durationMs": 304013,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/5H7EMoiGpJf6atP8APiNHK"
         },
         "href": "https://api.spotify.com/v1/tracks/5H7EMoiGpJf6atP8APiNHK",
         "id": "5H7EMoiGpJf6atP8APiNHK",
         "name": "Let You Break My Heart Again - Live at the Hollywood Bowl",
-        "preview_url": null,
-        "track_number": 5,
+        "previewUrl": null,
+        "trackNumber": 5,
         "type": "track",
         "uri": "spotify:track:5H7EMoiGpJf6atP8APiNHK",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -1383,7 +1383,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
             },
             "href": "https://api.spotify.com/v1/artists/6yeL5iw4hXNZtd8T7FOoFU",
@@ -1393,7 +1393,7 @@
             "uri": "spotify:artist:6yeL5iw4hXNZtd8T7FOoFU"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1580,25 +1580,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 191426,
+        "discNumber": 1,
+        "durationMs": 191426,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/7dOoAPZoB5REwyEPyMUtU6"
         },
         "href": "https://api.spotify.com/v1/tracks/7dOoAPZoB5REwyEPyMUtU6",
         "id": "7dOoAPZoB5REwyEPyMUtU6",
         "name": "Valentine - Live at the Hollywood Bowl",
-        "preview_url": null,
-        "track_number": 6,
+        "previewUrl": null,
+        "trackNumber": 6,
         "type": "track",
         "uri": "spotify:track:7dOoAPZoB5REwyEPyMUtU6",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -1608,7 +1608,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
             },
             "href": "https://api.spotify.com/v1/artists/6yeL5iw4hXNZtd8T7FOoFU",
@@ -1618,7 +1618,7 @@
             "uri": "spotify:artist:6yeL5iw4hXNZtd8T7FOoFU"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -1805,25 +1805,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 157906,
+        "discNumber": 1,
+        "durationMs": 157906,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/5e5uOSCVMcGPJAGQ9Jw1z4"
         },
         "href": "https://api.spotify.com/v1/tracks/5e5uOSCVMcGPJAGQ9Jw1z4",
         "id": "5e5uOSCVMcGPJAGQ9Jw1z4",
         "name": "I Wish You Love - Live at the Hollywood Bowl",
-        "preview_url": null,
-        "track_number": 7,
+        "previewUrl": null,
+        "trackNumber": 7,
         "type": "track",
         "uri": "spotify:track:5e5uOSCVMcGPJAGQ9Jw1z4",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -1833,7 +1833,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
             },
             "href": "https://api.spotify.com/v1/artists/6yeL5iw4hXNZtd8T7FOoFU",
@@ -1843,7 +1843,7 @@
             "uri": "spotify:artist:6yeL5iw4hXNZtd8T7FOoFU"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -2030,25 +2030,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 233640,
+        "discNumber": 1,
+        "durationMs": 233640,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/03eJSsUdZScDEpkFqcnrjk"
         },
         "href": "https://api.spotify.com/v1/tracks/03eJSsUdZScDEpkFqcnrjk",
         "id": "03eJSsUdZScDEpkFqcnrjk",
         "name": "Promise - Live at the Hollywood Bowl",
-        "preview_url": null,
-        "track_number": 8,
+        "previewUrl": null,
+        "trackNumber": 8,
         "type": "track",
         "uri": "spotify:track:03eJSsUdZScDEpkFqcnrjk",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -2058,7 +2058,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
             },
             "href": "https://api.spotify.com/v1/artists/6yeL5iw4hXNZtd8T7FOoFU",
@@ -2068,7 +2068,7 @@
             "uri": "spotify:artist:6yeL5iw4hXNZtd8T7FOoFU"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -2255,25 +2255,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 225466,
+        "discNumber": 1,
+        "durationMs": 225466,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/2KPJAU3kkURobXNf73O7BN"
         },
         "href": "https://api.spotify.com/v1/tracks/2KPJAU3kkURobXNf73O7BN",
         "id": "2KPJAU3kkURobXNf73O7BN",
         "name": "California and Me - Live at the Hollywood Bowl",
-        "preview_url": null,
-        "track_number": 9,
+        "previewUrl": null,
+        "trackNumber": 9,
         "type": "track",
         "uri": "spotify:track:2KPJAU3kkURobXNf73O7BN",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -2283,7 +2283,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
             },
             "href": "https://api.spotify.com/v1/artists/6yeL5iw4hXNZtd8T7FOoFU",
@@ -2293,7 +2293,7 @@
             "uri": "spotify:artist:6yeL5iw4hXNZtd8T7FOoFU"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -2480,25 +2480,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 304520,
+        "discNumber": 1,
+        "durationMs": 304520,
         "explicit": true,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/1Yfj3JJIthJK1w7lRXBOhG"
         },
         "href": "https://api.spotify.com/v1/tracks/1Yfj3JJIthJK1w7lRXBOhG",
         "id": "1Yfj3JJIthJK1w7lRXBOhG",
         "name": "Goddess - Live at the Hollywood Bowl",
-        "preview_url": null,
-        "track_number": 10,
+        "previewUrl": null,
+        "trackNumber": 10,
         "type": "track",
         "uri": "spotify:track:1Yfj3JJIthJK1w7lRXBOhG",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -2508,7 +2508,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
             },
             "href": "https://api.spotify.com/v1/artists/6yeL5iw4hXNZtd8T7FOoFU",
@@ -2518,7 +2518,7 @@
             "uri": "spotify:artist:6yeL5iw4hXNZtd8T7FOoFU"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -2705,25 +2705,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 125746,
+        "discNumber": 1,
+        "durationMs": 125746,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/5ERgs4fsyJueEVtNaNrFx0"
         },
         "href": "https://api.spotify.com/v1/tracks/5ERgs4fsyJueEVtNaNrFx0",
         "id": "5ERgs4fsyJueEVtNaNrFx0",
         "name": "It Could Happen To You - Live at the Hollywood Bowl",
-        "preview_url": null,
-        "track_number": 11,
+        "previewUrl": null,
+        "trackNumber": 11,
         "type": "track",
         "uri": "spotify:track:5ERgs4fsyJueEVtNaNrFx0",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -2733,7 +2733,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
             },
             "href": "https://api.spotify.com/v1/artists/6yeL5iw4hXNZtd8T7FOoFU",
@@ -2743,7 +2743,7 @@
             "uri": "spotify:artist:6yeL5iw4hXNZtd8T7FOoFU"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -2930,25 +2930,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 229040,
+        "discNumber": 1,
+        "durationMs": 229040,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/3RPuiRjXOTfyLsupIWM10N"
         },
         "href": "https://api.spotify.com/v1/tracks/3RPuiRjXOTfyLsupIWM10N",
         "id": "3RPuiRjXOTfyLsupIWM10N",
         "name": "Bored - Live at the Hollywood Bowl",
-        "preview_url": null,
-        "track_number": 12,
+        "previewUrl": null,
+        "trackNumber": 12,
         "type": "track",
         "uri": "spotify:track:3RPuiRjXOTfyLsupIWM10N",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -2958,7 +2958,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
             },
             "href": "https://api.spotify.com/v1/artists/6yeL5iw4hXNZtd8T7FOoFU",
@@ -2968,7 +2968,7 @@
             "uri": "spotify:artist:6yeL5iw4hXNZtd8T7FOoFU"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -3155,25 +3155,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 225733,
+        "discNumber": 1,
+        "durationMs": 225733,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/1YN8n5ZEUrzskFG9rBnvMg"
         },
         "href": "https://api.spotify.com/v1/tracks/1YN8n5ZEUrzskFG9rBnvMg",
         "id": "1YN8n5ZEUrzskFG9rBnvMg",
         "name": "Lovesick - Live at the Hollywood Bowl",
-        "preview_url": null,
-        "track_number": 13,
+        "previewUrl": null,
+        "trackNumber": 13,
         "type": "track",
         "uri": "spotify:track:1YN8n5ZEUrzskFG9rBnvMg",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -3183,7 +3183,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
             },
             "href": "https://api.spotify.com/v1/artists/6yeL5iw4hXNZtd8T7FOoFU",
@@ -3193,7 +3193,7 @@
             "uri": "spotify:artist:6yeL5iw4hXNZtd8T7FOoFU"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -3380,25 +3380,25 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 255546,
+        "discNumber": 1,
+        "durationMs": 255546,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/5HYPtMvVMkodNkwlTCVkPV"
         },
         "href": "https://api.spotify.com/v1/tracks/5HYPtMvVMkodNkwlTCVkPV",
         "id": "5HYPtMvVMkodNkwlTCVkPV",
         "name": "Bewitched - Live at the Hollywood Bowl",
-        "preview_url": null,
-        "track_number": 14,
+        "previewUrl": null,
+        "trackNumber": 14,
         "type": "track",
         "uri": "spotify:track:5HYPtMvVMkodNkwlTCVkPV",
-        "is_local": false
+        "isLocal": false
       },
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -3408,7 +3408,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
             },
             "href": "https://api.spotify.com/v1/artists/6yeL5iw4hXNZtd8T7FOoFU",
@@ -3418,7 +3418,7 @@
             "uri": "spotify:artist:6yeL5iw4hXNZtd8T7FOoFU"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -3605,20 +3605,20 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 198106,
+        "discNumber": 1,
+        "durationMs": 198106,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/4uaVVTitzqGca6kcW2PPIl"
         },
         "href": "https://api.spotify.com/v1/tracks/4uaVVTitzqGca6kcW2PPIl",
         "id": "4uaVVTitzqGca6kcW2PPIl",
         "name": "From The Start - Live at the Hollywood Bowl",
-        "preview_url": null,
-        "track_number": 15,
+        "previewUrl": null,
+        "trackNumber": 15,
         "type": "track",
         "uri": "spotify:track:4uaVVTitzqGca6kcW2PPIl",
-        "is_local": false
+        "isLocal": false
       }
     ]
   },
@@ -3632,7 +3632,7 @@
       "type": "P"
     }
   ],
-  "external_ids": {
+  "externalIds": {
     "upc": "198846967677"
   },
   "genres": [],

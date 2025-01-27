@@ -1,8 +1,10 @@
-const { readdirSync, rename } = require("fs");
+const { snakeToCamel } = require("caseparser");
+const { readdirSync, writeFile } = require("fs");
 const { join } = require("path");
 
-readdirSync(join("LaufeyBot", "mp3")).forEach(albumId => {
-  readdirSync(join("LaufeyBot", "mp3", albumId)).forEach(trackId => {
-    rename(join("LaufeyBot", "mp3", albumId, trackId), join("LaufeyBot", "mp3", albumId, trackId + ".mp3"), () => {});
-  });
+const path = join(__dirname, "LaufeyBot", "data", "albums");
+readdirSync(path).forEach(albumId => {
+  const filePath = join(path, albumId);
+  const data = require(filePath);
+  writeFile(filePath, JSON.stringify(snakeToCamel(data), null, 2), () => {})
 });

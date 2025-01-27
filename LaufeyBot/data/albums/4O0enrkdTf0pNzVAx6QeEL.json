@@ -1,7 +1,7 @@
 {
-  "album_type": "single",
-  "total_tracks": 1,
-  "available_markets": [
+  "albumType": "single",
+  "totalTracks": 1,
+  "availableMarkets": [
     "AR",
     "AU",
     "AT",
@@ -186,7 +186,7 @@
     "ET",
     "XK"
   ],
-  "external_urls": {
+  "externalUrls": {
     "spotify": "https://open.spotify.com/album/4O0enrkdTf0pNzVAx6QeEL"
   },
   "href": "https://api.spotify.com/v1/albums/4O0enrkdTf0pNzVAx6QeEL",
@@ -209,13 +209,13 @@
     }
   ],
   "name": "Ain't Christmas (with Laufey)",
-  "release_date": "2022-12-02",
-  "release_date_precision": "day",
+  "releaseDate": "2022-12-02",
+  "releaseDatePrecision": "day",
   "type": "album",
   "uri": "spotify:album:4O0enrkdTf0pNzVAx6QeEL",
   "artists": [
     {
-      "external_urls": {
+      "externalUrls": {
         "spotify": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
       },
       "href": "https://api.spotify.com/v1/artists/6sFHvCyqklnJpXC9Nh1aag",
@@ -225,7 +225,7 @@
       "uri": "spotify:artist:6sFHvCyqklnJpXC9Nh1aag"
     },
     {
-      "external_urls": {
+      "externalUrls": {
         "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
       },
       "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -246,7 +246,7 @@
       {
         "artists": [
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
             },
             "href": "https://api.spotify.com/v1/artists/6sFHvCyqklnJpXC9Nh1aag",
@@ -256,7 +256,7 @@
             "uri": "spotify:artist:6sFHvCyqklnJpXC9Nh1aag"
           },
           {
-            "external_urls": {
+            "externalUrls": {
               "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
             },
             "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
@@ -266,7 +266,7 @@
             "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
           }
         ],
-        "available_markets": [
+        "availableMarkets": [
           "AR",
           "AU",
           "AT",
@@ -451,20 +451,20 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 189088,
+        "discNumber": 1,
+        "durationMs": 189088,
         "explicit": false,
-        "external_urls": {
+        "externalUrls": {
           "spotify": "https://open.spotify.com/track/1ishMaKoZFGrxFdGLa2qZN"
         },
         "href": "https://api.spotify.com/v1/tracks/1ishMaKoZFGrxFdGLa2qZN",
         "id": "1ishMaKoZFGrxFdGLa2qZN",
         "name": "Ain't Christmas (with Laufey)",
-        "preview_url": null,
-        "track_number": 1,
+        "previewUrl": null,
+        "trackNumber": 1,
         "type": "track",
         "uri": "spotify:track:1ishMaKoZFGrxFdGLa2qZN",
-        "is_local": false
+        "isLocal": false
       }
     ]
   },
@@ -478,7 +478,7 @@
       "type": "P"
     }
   ],
-  "external_ids": {
+  "externalIds": {
     "upc": "00602448996633"
   },
   "genres": [],
