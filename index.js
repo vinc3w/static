@@ -4,4 +4,9 @@ const { join } = require("path");
 
 const path = join(__dirname, "LaufeyBot", "data", "albums.json");
 const data = require(path);
-writeFile(path, JSON.stringify(snakeToCamel(data), null, 2), () => {})
+data.items = data.items.filter(i => i.albumType !== "compilation");
+writeFile(
+  path,
+  JSON.stringify(snakeToCamel(data), null, 2),
+  () => {}
+);
