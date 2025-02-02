@@ -1,12 +1,20 @@
-const { snakeToCamel } = require("caseparser");
-const { writeFile } = require("fs");
+const { rename, readdirSync } = require("fs");
 const { join } = require("path");
 
-const path = join(__dirname, "LaufeyBot", "data", "albums.json");
-const data = require(path);
-data.items = data.items.filter(i => i.albumType !== "compilation");
-writeFile(
-  path,
-  JSON.stringify(snakeToCamel(data), null, 2),
-  () => {}
-);
+const path = join(__dirname, "LaufeyBot", "streams");
+const directories = readdirSync(path);
+
+directories.forEach(d => {
+
+  const dir = join(path, d);
+  const files = readdirSync(dir);
+
+  files.forEach(f => {
+
+    rename(join(path, d, f), join(path, f), function (err) {
+      console.log(err)
+    });
+
+  });
+  
+});
