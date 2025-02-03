@@ -458,7 +458,8 @@
         "trackNumber": 1,
         "type": "track",
         "uri": "spotify:track:0EkUrEcg4DiQjVTuS2pDrh",
-        "isLocal": false
+        "isLocal": false,
+        "dev": true
       },
       {
         "artists": [
@@ -683,7 +684,8 @@
         "trackNumber": 2,
         "type": "track",
         "uri": "spotify:track:5cddyAdFOA3JsC3MhYmc2Y",
-        "isLocal": false
+        "isLocal": false,
+        "dev": true
       }
     ]
   },
